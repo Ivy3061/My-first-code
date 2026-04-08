@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+
+    <h1>Hello, my name is Ivy 👋</h1>
+    <p>I am learning coding through my first challenge.</p>
+
+    <h2>My Goals</h2>
+    <ul>
+        <li>Learn HTML</li>
+        <li>Build websites</li>
+        <li>Earn online 💰</li>
+    </ul>
+
+</body>
+</html>
